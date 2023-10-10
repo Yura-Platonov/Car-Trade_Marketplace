@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Car-Trade_Marketplace/static/css/main.7acaea2f.css",
+    "main.js": "/Car-Trade_Marketplace/static/js/main.07d3183d.js",
+    "index.html": "/Car-Trade_Marketplace/index.html",
+    "main.7acaea2f.css.map": "/Car-Trade_Marketplace/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Car-Trade_Marketplace/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
