@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar_trade_marketplace=self.webpackChunkcar_trade_marketplace||[]).push([[852],{852:function(e,a,r){r.r(a);var c=r(184);a.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("h1",{children:"MainPage"})})}}}]);
+//# sourceMappingURL=852.ac18ab1a.chunk.js.map

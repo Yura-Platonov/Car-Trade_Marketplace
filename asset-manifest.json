@@ -1,10 +1,26 @@
 {
   "files": {
-    "main.js": "/Car-Trade_Marketplace/static/js/main.e9800456.js",
+    "main.css": "/Car-Trade_Marketplace/static/css/main.d6a67acb.css",
+    "main.js": "/Car-Trade_Marketplace/static/js/main.39e8d6e0.js",
+    "static/js/852.ac18ab1a.chunk.js": "/Car-Trade_Marketplace/static/js/852.ac18ab1a.chunk.js",
+    "static/js/845.2a2487c2.chunk.js": "/Car-Trade_Marketplace/static/js/845.2a2487c2.chunk.js",
+    "static/js/516.ee31f36d.chunk.js": "/Car-Trade_Marketplace/static/js/516.ee31f36d.chunk.js",
+    "static/js/525.399516d6.chunk.js": "/Car-Trade_Marketplace/static/js/525.399516d6.chunk.js",
+    "static/js/568.cc20f51e.chunk.js": "/Car-Trade_Marketplace/static/js/568.cc20f51e.chunk.js",
     "index.html": "/Car-Trade_Marketplace/index.html",
-    "main.e9800456.js.map": "/Car-Trade_Marketplace/static/js/main.e9800456.js.map"
+    "static/media/eye-slash.svg": "/Car-Trade_Marketplace/static/media/eye-slash.3b1d24d45f36c63a871c70f8b74dbf62.svg",
+    "static/media/eye.svg": "/Car-Trade_Marketplace/static/media/eye.e99d74334ad6397152628e2098cbc42b.svg",
+    "static/media/icon.svg": "/Car-Trade_Marketplace/static/media/icon.b0d168aa605248db2a014ec201852d98.svg",
+    "main.d6a67acb.css.map": "/Car-Trade_Marketplace/static/css/main.d6a67acb.css.map",
+    "main.39e8d6e0.js.map": "/Car-Trade_Marketplace/static/js/main.39e8d6e0.js.map",
+    "852.ac18ab1a.chunk.js.map": "/Car-Trade_Marketplace/static/js/852.ac18ab1a.chunk.js.map",
+    "845.2a2487c2.chunk.js.map": "/Car-Trade_Marketplace/static/js/845.2a2487c2.chunk.js.map",
+    "516.ee31f36d.chunk.js.map": "/Car-Trade_Marketplace/static/js/516.ee31f36d.chunk.js.map",
+    "525.399516d6.chunk.js.map": "/Car-Trade_Marketplace/static/js/525.399516d6.chunk.js.map",
+    "568.cc20f51e.chunk.js.map": "/Car-Trade_Marketplace/static/js/568.cc20f51e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9800456.js"
+    "static/css/main.d6a67acb.css",
+    "static/js/main.39e8d6e0.js"
   ]
 }
