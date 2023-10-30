@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcar_trade_marketplace=self.webpackChunkcar_trade_marketplace||[]).push([[845],{4845:function(a,e,r){r.r(e),r.d(e,{MainLayout:function(){return c}});var n=r(7689),t=r(184),c=function(){return(0,t.jsx)("main",{children:(0,t.jsx)(n.j3,{})})}}}]);
-//# sourceMappingURL=845.2a2487c2.chunk.js.map
