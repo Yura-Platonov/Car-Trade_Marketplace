@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Car-Trade_Marketplace/static/css/main.b2cc6b79.css",
-    "main.js": "/Car-Trade_Marketplace/static/js/main.b18162f7.js",
+    "main.js": "/Car-Trade_Marketplace/static/js/main.c571c6b7.js",
     "static/media/WorkSans-Bold.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Bold.1cdef49100a51e35264a.ttf",
     "static/media/WorkSans-Medium.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Medium.905f58df4c3ad21ca78d.ttf",
     "static/media/WorkSans-Regular.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Regular.7c5aca8a8c320a8df026.ttf",
@@ -17,17 +17,21 @@
     "static/media/HeartSVG.svg": "/Car-Trade_Marketplace/static/media/HeartSVG.303e4cd090df69be83eadea1bb8471a1.svg",
     "static/media/instagram.svg": "/Car-Trade_Marketplace/static/media/instagram.27254f26aefb96f89d73b18f8ee030cd.svg",
     "index.html": "/Car-Trade_Marketplace/index.html",
+    "static/media/announcements.svg": "/Car-Trade_Marketplace/static/media/announcements.1738b6771ccc4c387e1fbb5740989dc3.svg",
     "static/media/Kia.svg": "/Car-Trade_Marketplace/static/media/Kia.9db13fe7c66ac2714ceaec7a586efb33.svg",
     "static/media/Infiniti.svg": "/Car-Trade_Marketplace/static/media/Infiniti.6b86e2f703c5a07ce52c4e098f2a860d.svg",
     "static/media/youtube.svg": "/Car-Trade_Marketplace/static/media/youtube.79e39bdfcc69796fcb9b43eda3a0c613.svg",
+    "static/media/logout.svg": "/Car-Trade_Marketplace/static/media/logout.8383a2e6327ff3923b3c8a7f373f8f25.svg",
     "static/media/Renault.svg": "/Car-Trade_Marketplace/static/media/Renault.3367b9a5e2cb8aa23d525fe83aee8118.svg",
     "static/media/facebook.svg": "/Car-Trade_Marketplace/static/media/facebook.6f0d43a5d3ef6b6046b7ea8c205d20c2.svg",
+    "static/media/user.svg": "/Car-Trade_Marketplace/static/media/user.495b12873ce536b5929ff164b251cc66.svg",
+    "static/media/favourites.svg": "/Car-Trade_Marketplace/static/media/favourites.563809c3867896d6bb2c15e1c9a53811.svg",
     "static/media/AddSVG.svg": "/Car-Trade_Marketplace/static/media/AddSVG.70681b341bd14b799374f5d5b22b9b6f.svg",
     "main.b2cc6b79.css.map": "/Car-Trade_Marketplace/static/css/main.b2cc6b79.css.map",
-    "main.b18162f7.js.map": "/Car-Trade_Marketplace/static/js/main.b18162f7.js.map"
+    "main.c571c6b7.js.map": "/Car-Trade_Marketplace/static/js/main.c571c6b7.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cc6b79.css",
-    "static/js/main.b18162f7.js"
+    "static/js/main.c571c6b7.js"
   ]
 }
