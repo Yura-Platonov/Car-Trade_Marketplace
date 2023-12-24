@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Car-Trade_Marketplace/static/css/main.b2cc6b79.css",
-    "main.js": "/Car-Trade_Marketplace/static/js/main.3b24e94a.js",
+    "main.js": "/Car-Trade_Marketplace/static/js/main.412e5810.js",
     "static/media/WorkSans-Bold.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Bold.1cdef49100a51e35264a.ttf",
     "static/media/WorkSans-Medium.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Medium.905f58df4c3ad21ca78d.ttf",
     "static/media/WorkSans-Regular.ttf": "/Car-Trade_Marketplace/static/media/WorkSans-Regular.7c5aca8a8c320a8df026.ttf",
@@ -10,7 +10,6 @@
     "static/media/HeroBgImgMin.jpg": "/Car-Trade_Marketplace/static/media/HeroBgImgMin.f767492c0282f513bd45.jpg",
     "static/media/Ford.svg": "/Car-Trade_Marketplace/static/media/Ford.8454b98f5c843f931147da5dc6d63e86.svg",
     "static/media/Honda.svg": "/Car-Trade_Marketplace/static/media/Honda.87073fef14ef30658c4d5c89b933c99a.svg",
-    "static/media/LogoSVG.svg": "/Car-Trade_Marketplace/static/media/LogoSVG.fa937870100a99e02d965f0125155668.svg",
     "static/media/UserSVG.svg": "/Car-Trade_Marketplace/static/media/UserSVG.674b599e84b1e70c1e91b3495f1bd5ab.svg",
     "static/media/Mazda.svg": "/Car-Trade_Marketplace/static/media/Mazda.e3fc0286f182ab6f9f58ae6bd320e75e.svg",
     "static/media/Volvo.svg": "/Car-Trade_Marketplace/static/media/Volvo.19acb561403ba00cf243e621fd80bec0.svg",
@@ -28,10 +27,10 @@
     "static/media/favourites.svg": "/Car-Trade_Marketplace/static/media/favourites.563809c3867896d6bb2c15e1c9a53811.svg",
     "static/media/AddSVG.svg": "/Car-Trade_Marketplace/static/media/AddSVG.70681b341bd14b799374f5d5b22b9b6f.svg",
     "main.b2cc6b79.css.map": "/Car-Trade_Marketplace/static/css/main.b2cc6b79.css.map",
-    "main.3b24e94a.js.map": "/Car-Trade_Marketplace/static/js/main.3b24e94a.js.map"
+    "main.412e5810.js.map": "/Car-Trade_Marketplace/static/js/main.412e5810.js.map"
   },
   "entrypoints": [
     "static/css/main.b2cc6b79.css",
-    "static/js/main.3b24e94a.js"
+    "static/js/main.412e5810.js"
   ]
 }
